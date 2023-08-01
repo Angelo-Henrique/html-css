@@ -1,0 +1,1195 @@
+23:48:23 [info] 20:48:23 -3 [engine] DeviceInfo::GetGPUModel():  Intel(R) Iris(R) Xe Graphics
+23:48:23 [info] 20:48:23 -3 [engine] Network type:  WiFi
+23:48:23 [info] EngineBackend::OnGameLoopStarted: enter
+23:48:23 [info] GameCore::OnAppStarted begin
+23:48:24 [info] 20:48:24 -3 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+23:48:24 [info] 20:48:24 -3 [wwise] Wwise sound system was successfully initialized.
+23:48:24 [info] SetBattleState unknown
+23:48:24 [info] 20:48:24 -3 [base] Vendor OS version: no
+23:48:24 [info] 20:48:24 -3 [base] Platform:  Win32   steam
+23:48:24 [info] 20:48:24 -3 [base] RAM size in gb:  7.78838
+23:48:24 [info] Device kind: Desktop
+23:48:24 [info] Device display: 15.62" (13.62"x7.66")
+23:48:24 [info] GameCore::OnAppStarted done
+23:48:24 [info] EngineBackend::OnGameLoopStarted: leave
+23:48:24 [info] Window::HandleWindowCreated: enter
+23:48:24 [info] 20:48:24 -3 [render] rhi::ShaderSourceCache::InitCacheDir start
+23:48:24 [info] 20:48:24 -3 [render] rhi::ShaderSourceCache::InitCacheDir end, duration 1 ms
+23:48:24 [info] [RHI-DX11] Creating device
+23:48:24 [info] [RHI-DX11] available adapters:
+23:48:24 [info] 0 : 'Intel(R) Iris(R) Xe Graphics' (vendor: 0x8086, subsystem: 0x3F9C17AA), feature level: 0xb000 (11.0)
+23:48:24 [info] 1 : 'Microsoft Basic Render Driver' (vendor: 0x1414, subsystem: 0x0000), feature level: 0xb000 (11.0)
+23:48:24 [info] [RHI-DX11] Using adapter `Intel(R) Iris(R) Xe Graphics` (vendor: 8086, subsystem: 3F9C17AA)
+23:48:24 [info] [RHI-DX11] Creating device without selected adapter
+23:48:25 [info] [RHI-DX11] Init with feature level: 0xb000 (11.0)
+23:48:25 [info] [RHI-DX11] Using retrieved adapter `Intel(R) Iris(R) Xe Graphics` (vendor: 0x8086, subsystem: 0x3F9C17AA)
+23:48:25 [info] [RHI-DX11] Selected adapter has 128 Mb of video memory
+23:48:25 [info] [RHI-DX11] OS registry version: 6.3.22621, is running on Win10: 0
+23:48:25 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+23:48:25 [info] [RHI-DX11] Reset targets and views
+23:48:25 [info] [RHI-DX11] Clear context state
+23:48:25 [info] [RHI-DX11] Flush context
+23:48:25 [info] [RHI-DX11] Resize swapchain buffers to size {1280, 960}
+23:48:25 [info] 20:48:25 -3 [render] DeviceTier: Low (video memory <512mb)
+23:48:25 [info] [RHI-DX11] hardware command buffers enabled: 0
+23:48:25 [info] [RHI-DX11] Typeless texture formats supported: 1
+23:48:25 [info] Rendering thread started
+23:48:25 [info] 20:48:25 -3 [render] DeviceInfo::GetGPUModel():  Intel(R) Iris(R) Xe Graphics
+23:48:25 [info] 20:48:25 -3 [render] Default Framebuffer size: 1280 x 960
+23:48:25 [info] 20:48:25 -3 [render] Default Framebuffer dpi x: 141 y: 141
+23:48:25 [info] 20:48:25 -3 [render] Default Framebuffer Diagonal size in inches: 15.6235
+23:48:25 [info] [Renderer] DeviceTier: Low
+23:48:25 [info] [Renderer] CurrentFlow: Forward
+23:48:25 [info] [Renderer] Is Forward with Depth Prepass Supported: YES
+23:48:25 [info] [Renderer] Is PBR Supported: YES
+23:48:25 [info] [Renderer] Is Shadow Mapping Supported: YES
+23:48:25 [info] [Renderer] Max Anisotropy: 16
+23:48:25 [info] [Renderer] Max Texture Size: 16384
+23:48:25 [info] [Renderer] Max Vertex Attributes Count: 16
+23:48:25 [info] [Renderer] Max Varying Vectors Count: 15
+23:48:25 [info] [Renderer] Max MRT Count: 4;
+23:48:25 [info] [Renderer] Max MSAA Sample Count: 1;
+23:48:25 [info] [Renderer] is32BitIndicesSupported: YES
+23:48:25 [info] [Renderer] isVertexTextureUnitsSupported: YES
+23:48:25 [info] [Renderer] armOpenglDepthStencilFetchSupported: NO
+23:48:25 [info] [Renderer] armOpenglColorFetchSupported: NO
+23:48:25 [info] [Renderer] extOpenglColorFetchSupported: NO
+23:48:25 [info] [Renderer] androidMultisampleTextureEXTSupported: NO
+23:48:25 [info] [Renderer] metalColorFetchSupported: NO
+23:48:25 [info] [Renderer] isUpperLeftRTOrigin: YES
+23:48:25 [info] [Renderer] isZeroBaseClipRange: YES
+23:48:25 [info] [Renderer] isCenterPixelMapping: NO
+23:48:25 [info] [Renderer] isInstancingSupported: YES
+23:48:25 [info] [Renderer] isPerfQuerySupported: YES
+23:48:25 [info] [Renderer] isGpuStageTrackingSupported: NO
+23:48:25 [info] [Renderer] isDisjointPerfQuerySupported: NO
+23:48:25 [info] [Renderer] isComparisonSamplerSupported: YES
+23:48:25 [info] [Renderer] isInstanceIdSupported: YES
+23:48:25 [info] [Renderer] framebufferDiscardSupported: NO
+23:48:25 [info] [Renderer] isD24S8FormatSupported: YES
+23:48:25 [info] [Renderer] isD16FormatSupported: YES
+23:48:25 [info] [Renderer] isMemorylessSupported: NO
+23:48:25 [info] [Renderer] retrieveTileDataAllowed: YES
+23:48:25 [info] [Renderer] isAstcCompressionSupported: NO
+23:48:25 [info] GameCore::OnWindowCreated begin
+23:48:25 [info] Desirable resource suffix: ""
+23:48:25 [info] 20:48:25 -3 [graphics_options_module] Device tags: [Win32, , manufacturer-, maxFps-60, windows-low-tier]
+23:48:25 [info] 20:48:25 -3 [graphics_options_module] Detected preset: WindowsLowTier
+23:48:25 [info] 20:48:25 -3 [base] Highest allowed options:
+ Graphics options:
+	WaterQuality: Medium
+	ObjectsQuality: High
+	VehiclesQuality: High
+	EffectsQuality: High
+	LevelOfDetail: High
+	FogQuality: High
+	AnisotropicFiltering: 16X
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: High
+	GrassInSniperMode: true
+	TankTreads: true
+	ShadowQuality: Medium
+	HitMarks: true
+	HDTextures: true
+	HalfResolutionV2: Dynamic
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: true
+	TankSuspension: true
+
+23:48:25 [info] 20:48:25 -3 [base] [GraphicsOptionsManager::SetupOptionsFromPreset] Selected user options:
+ Graphics options:
+	WaterQuality: Low
+	ObjectsQuality: Compatible
+	VehiclesQuality: Low
+	EffectsQuality: Low
+	LevelOfDetail: Low
+	FogQuality: Low
+	AnisotropicFiltering: Off
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: Compatible
+	GrassInSniperMode: false
+	TankTreads: false
+	ShadowQuality: Off
+	HitMarks: false
+	HDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: false
+
+23:48:25 [info] 20:48:25 -3 [base] Max graphics options according to our runtime hardware clamping:
+23:48:25 [info] 20:48:25 -3 [base] Field with name: WaterQuality clamped from High [3] to Medium [2]
+23:48:25 [info] 20:48:25 -3 [base] Field with name: ObjectsQuality clamped from Cinema [4] to High [3]
+23:48:25 [info] 20:48:25 -3 [base] Field with name: LevelOfDetail clamped from Cinema [4] to High [3]
+23:48:25 [info] 20:48:25 -3 [base] Field with name: Antialiasing clamped from 4X [2] to Off [0]
+23:48:25 [info] 20:48:25 -3 [base] Field with name: GrassQuality clamped from Cinema [3] to High [2]
+23:48:25 [info] 20:48:25 -3 [base] Field with name: ShadowQuality clamped from Cinema [4] to Medium [3]
+23:48:25 [info] 20:48:25 -3 [base] Field with name: FPSLimit clamped from 120 [2] to 60 [1]
+23:48:25 [info] 20:48:25 -3 [base] GameOptions::CheckAppVersion, currentBuildInfoStr =  9.7.0.1190_3447642 release/9.7.0 WOTB_Win7 , currentBuildVersion =  9.7.0.1190_3447642
+23:48:25 [info] 20:48:25 -3 [base] AppController::Activate dynamic_content_version.txt deletion succeded:  0
+23:48:25 [info] 20:48:25 -3 [base] GameOptions::CheckAppVersion, needRefreshAppVersion =  1
+23:48:25 [info] 20:48:25 -3 [base] GameOptions::CheckAppVersion, majorMinorVersionChanged =  1
+23:48:25 [info] 20:48:25 -3 [base] AppGraphicsOptionsMigrationManager::Migrate
+23:48:25 [info] 20:48:25 -3 [base] currentVersion =  0 , isFirstRun =  1 , MinVersion =  8 , MaxVersion =  12 , loadedFromFile =  0
+23:48:25 [info] 20:48:25 -3 [base] First run on device after installation, no migration needed.
+23:48:25 [info] 20:48:25 -3 [base] PlayerOptionsMigrationManager::Migrate
+23:48:25 [info] 20:48:25 -3 [base] currentVersion =  0 , isFirstRun =  1 , MinVersion =  1 , MaxVersion =  1 , loadedFromFile =  0
+23:48:25 [info] 20:48:25 -3 [base] First run on device after installation, no migration needed.
+23:48:25 [info] 20:48:25 -3 [base] Application version: 9.7.0
+23:48:25 [info] 20:48:25 -3 [base] Build version: 9.7.0.1190_3447642
+23:48:25 [info] GameCore::OnWindowCreated done
+23:48:25 [info] 20:48:25 -3 [base] [GraphicsOptionsManager::SetUserOptions] Selected user options:
+ Graphics options:
+	WaterQuality: Low
+	ObjectsQuality: Compatible
+	VehiclesQuality: Low
+	EffectsQuality: Low
+	LevelOfDetail: Low
+	FogQuality: Low
+	AnisotropicFiltering: Off
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: Compatible
+	GrassInSniperMode: false
+	TankTreads: false
+	ShadowQuality: Off
+	HitMarks: false
+	HDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: false
+	ColorblindMode: false
+	TankSuspension: false
+
+23:48:25 [info] Window::HandleWindowCreated: leave
+23:48:25 [info] Window::HandleVisibilityChanged: become visible
+23:48:25 [info] GameCore::OnForeground
+23:48:26 [info] [RHI-DX11] ResetBlock, resizing swapchain.
+23:48:26 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+23:48:26 [info] [RHI-DX11] Reset targets and views
+23:48:26 [info] [RHI-DX11] Clear context state
+23:48:26 [info] [RHI-DX11] Flush context
+23:48:26 [info] [RHI-DX11] Resize swapchain buffers to size {1920, 1080}
+23:48:26 [info] 20:48:26 -3 [base] [GraphicsOptionsManager::SetUserOptions] Selected user options:
+ Graphics options:
+	WaterQuality: Low
+	ObjectsQuality: Compatible
+	VehiclesQuality: Low
+	EffectsQuality: Low
+	LevelOfDetail: Low
+	FogQuality: Low
+	AnisotropicFiltering: Off
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: Compatible
+	GrassInSniperMode: false
+	TankTreads: false
+	ShadowQuality: Off
+	HitMarks: false
+	HDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: false
+
+23:48:26 [info] AppContextImpl::InitializeLocalizations device locale: pt, locale: pt, game locale: pt, sound locale: pbr, 
+23:48:26 [info] 20:48:26 -3 [BW] BWWrapper::SetupNetwork start
+23:48:26 [info] 20:48:26 -3 [BW] BWWrapper::SetupNetwork end, duration 21 ms
+23:48:26 [info] 20:48:26 -3 [base] AppController::Activate, IsFirstRunInMajorMinorUpdateVersion =  1
+23:48:26 [info] 20:48:26 -3 [base] AppController::SaveDynamicResourcesVersion devVersion:  0
+23:48:26 [info] 20:48:26 -3 [base] AppController::SaveDynamicResourcesVersion writting went:  1
+23:48:26 [info] 20:48:26 -3 [base] AppController::Activate, dynamicContentVersion =  0
+23:48:26 [info] 20:48:26 -3 [net] [PredefinedHosts::RequestServerRegionsConfig] Requesting server regions config
+23:48:26 [info] 20:48:26 -3 [net] PredefinedHosts::CreateServerRegionsConfigYamlRequest for url:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.7.0.yaml
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::Reset 0E79542C
+23:48:26 [info] 20:48:26 -3 [net] PredefinedHosts::CreateServerRegionsConfigYamlRequest for url:  http://cdn.static.wotb.app/conf/regions_9.7.0.yaml
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::Reset 0E794FAC
+23:48:26 [info] 20:48:26 -3 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.7.0.yaml
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::StartAsync 0E79542C
+23:48:26 [info] 20:48:26 -3 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://cdn.static.wotb.app/conf/regions_9.7.0.yaml
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::StartAsync 0E794FAC
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::Start this= 0E79542C thread= 4180
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::Start this= 0E794FAC thread= 17836
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Water = LOW
+23:48:26 [info] 20:48:26 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Static object = LOW
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Pbr = OFF
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Reflections = LOW
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Static Decal = OFF
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Tank = MEDIUM
+23:48:26 [info] 20:48:26 -3 [render] Material group quality: Grass = OFF
+23:48:26 [info] PreLoginFlowScreen::LoadResources begin
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::StartInSeparateThread 0E79542C wasCancelled= 0
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::OnRequestComplete 0E79542C wasCancelled= 0
+23:48:26 [info] 20:48:26 -3 [net] [AsyncRequester::OnRequestFinished] Request finished:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.7.0.yaml
+23:48:26 [info] 20:48:26 -3 [net] [SPredefinedHosts::CheckRequestResult] Successfully downloaded regions config from: "http://dl-wotblitz-gc.wargaming.net/conf/regions_9.7.0.yaml".
+23:48:26 [info] 20:48:26 -3 [net] [PredefinedHosts::OnSuccessfullResponse] Successfull response from url:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.7.0.yaml
+23:48:26 [info] 20:48:26 -3 [net] [PredefinedHosts::OnConfigChosen] Config chosen
+23:48:26 [info] 20:48:26 -3 [net] Read server regions yaml.
+23:48:26 [info] Timezone: America/Sao_Paulo, us
+23:48:26 [info] 20:48:26 -3 [net] [AsyncRequester::OnFirstSuccessfullRequestSync] Successfull request:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.7.0.yaml
+23:48:26 [info] 20:48:26 -3 [net] [AsyncRequester::CancelRequests] Canceling requests
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::Cancel 0E79542C
+23:48:26 [info] 20:48:26 -3 [http] UrlRequest::Cancel 0E794FAC
+23:48:27 [info] 20:48:27 -3 [http] UrlRequest::StartInSeparateThread 0E794FAC wasCancelled= 1
+23:48:29 [info] 20:48:29 -3 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 93
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Water = LOW
+23:48:29 [info] 20:48:29 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Static object = LOW
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Pbr = OFF
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Reflections = LOW
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Static Decal = OFF
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Tank = MEDIUM
+23:48:29 [info] 20:48:29 -3 [render] Material group quality: Grass = OFF
+23:48:29 [error] 20:48:29 -3 [base] Request to switch to current screen: ConnectingScreen
+23:48:29 [info] 20:48:29 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 94
+23:48:29 [info] Timezone: America/Sao_Paulo, us
+23:48:30 [info] 20:48:30 -3 [http] UrlRequest::StartAsync 0E793EAC
+23:48:30 [info] 20:48:30 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 95
+23:48:30 [info] 20:48:30 -3 [http] UrlRequest::Start this= 0E793EAC thread= 12296
+23:48:30 [info] 20:48:30 -3 [base] Controller deactivated: ImageSplashController
+23:48:30 [info] 20:48:30 -3 [base] Controller activated: EULAConfirmationController
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Water = LOW
+23:48:30 [info] 20:48:30 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Static object = LOW
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Pbr = OFF
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Reflections = LOW
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Static Decal = OFF
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Tank = MEDIUM
+23:48:30 [info] 20:48:30 -3 [render] Material group quality: Grass = OFF
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:30 [error] 20:48:30 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:30 [info] 20:48:30 -3 [http] UrlRequest::StartInSeparateThread 0E793EAC wasCancelled= 0
+23:48:30 [info] 20:48:30 -3 [http] UrlRequest::OnRequestComplete 0E793EAC wasCancelled= 0
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:31 [error] 20:48:31 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:32 [error] 20:48:32 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:33 [error] 20:48:33 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:34 [info] 20:48:34 -3 [ui] UIDataParams redirect event:  CHECK_PRESSED , control:  CkeckBox  -> event:  EULA_CONFIRMATION_CHECKED , control: CheckBox
+23:48:34 [info] 20:48:34 -3 [ui] UIDataParams redirect event:  EULA_CONFIRMATION_CHECKED , control:  EULAConfirmation  -> event:  EULA_CONFIRMATION_CHECKED , control: Content
+23:48:34 [warning] 20:48:34 -3 [ui] [UIEventsSystem] More then one event on frame ' HOVER_START ' occured after ' OnHoverEnd '
+23:48:34 [warning] 20:48:34 -3 [ui] [UIEventsSystem] More then one event on frame ' HOVER_START ' occured after ' HOVER_END '
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:34 [error] 20:48:34 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [error] 20:48:35 -3 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+23:48:35 [info] 20:48:35 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  CONFIRM_EULA , control: CompleteButton
+23:48:35 [info] 20:48:35 -3 [ui] UIDataParams redirect event:  CONFIRM_EULA , control:  EULAConfirmation  -> event:  CONFIRM_EULA , control: Content
+23:48:35 [info] 20:48:35 -3 [http] UrlRequest::StartAsync 0D0484B4
+23:48:35 [info] 20:48:35 -3 [http] UrlRequest::Start this= 0D0484B4 thread= 2016
+23:48:36 [info] 20:48:36 -3 [base] Controller deactivated: EULAConfirmationController
+23:48:36 [info] 20:48:36 -3 [base] Controller activated: SmartDlcInitializationController
+23:48:36 [info] 20:48:36 -3 [smart_dlc] SmartDlcInitializationController::StartInitialization - dynamicContentVersion:  0
+23:48:36 [info] 20:48:36 -3 [smart_dlc] SmartDlcInitializationController::InititalizeSmartDlc: using Disabled DLCManager
+23:48:36 [info] 20:48:36 -3 [smart_dlc] SmartDlcInitializationController: referenced dvpd files [  ]
+23:48:36 [error] 20:48:36 -3 [engine] [ConvertedFileSpriteDataLoader] File "~res:/Gfx/Lobby/icons/icon_age-rating_m" not found
+23:48:36 [error] 20:48:36 -3 [engine] [AutoSpriteDataLoaderWrapper] Failed to initialize sprite "~res:/Gfx/Lobby/icons/icon_age-rating_m". Pink placeholder is used
+23:48:36 [info] 20:48:36 -3 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 278
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Water = LOW
+23:48:36 [info] 20:48:36 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Static object = LOW
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Pbr = OFF
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Reflections = LOW
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Static Decal = OFF
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Tank = MEDIUM
+23:48:36 [info] 20:48:36 -3 [render] Material group quality: Grass = OFF
+23:48:36 [info] PreLoginFlow::LoadSounds took 0 ms
+23:48:36 [info] AppContextImpl::InitializeLocalizations device locale: pt, locale: pt, game locale: pt, sound locale: pbr, 
+23:48:36 [info] 20:48:36 -3 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+23:48:36 [info] 20:48:36 -3 [base] [Items::ReadItemType] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/item_types.xml
+23:48:36 [info] 20:48:36 -3 [base] [CamoDataProvider::Initialize] load file : C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/camouflages.xml
+23:48:36 [info] 20:48:36 -3 [http] UrlRequest::StartInSeparateThread 0D0484B4 wasCancelled= 0
+23:48:36 [info] 20:48:36 -3 [base] [MaterialKinds::Init] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/material_kinds.xml
+23:48:36 [info] 20:48:36 -3 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/camouflages.yaml
+23:48:36 [info] 20:48:36 -3 [base] [OptionalDevicesPresetsProvider::Load] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/optional_device_slots.xml
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' DamageBoostII ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' ReloadBoostII ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' EngineBoostII ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' RammingII ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' LightingII ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' HuntersMarkHellgames ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' TornadoHellgames ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' VampiricBoost ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' BotFate ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' GravityJump ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' GodMode ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' TungstenTip ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' GunPowder ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' OneShotShield ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [info] 20:48:36 -3 [base] [DestructiblesCache::Init] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/destructibles.xml
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [info] PreLoginFlow::StartAnalyticsTracking took 0 ms
+23:48:36 [info] 20:48:36 -3 [http] UrlRequest::OnRequestComplete 0D0484B4 wasCancelled= 0
+tra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [warning] 20:48:36 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:36 [info] 20:48:36 -3 [base] [Nations::Init] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/available_nations.yaml
+23:48:36 [info] PreLoginFlow::LoadControlLayout took 278 ms
+23:48:37 [info] 20:48:37 -3 [net] PredefinedHosts::PingRegions: skip ping of ignored region
+23:48:37 [info] 20:48:37 -3 [BW] BWWrapper::SetupNetwork start
+23:48:37 [info] 20:48:37 -3 [BW] BWWrapper::SetupNetwork end, duration 1 ms
+23:48:37 [info] 20:48:37 -3 [net] PredefinedHosts::SetupBwNetworkAndPingUrls urls count to ping: 11
+23:48:39 [info] 20:48:39 -3 [net] Server: login1.wotblitz.com:20016, Ip: 92.223.39.65:20016, Avg ping: 198.8ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login1.wotblitz.com:20016, Ip: 92.223.39.58:20016, Avg ping: 206.5ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.com:20016, Ip: 92.223.57.35:20016, Avg ping: 215.0ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.com:20016, Ip: 92.223.57.86:20016, Avg ping: 214.5ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.134:20016, Avg ping: 239.8ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.131:20016, Avg ping: 240.0ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.132:20016, Avg ping: 239.8ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.141:20016, Avg ping: 239.8ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.136:20016, Avg ping: 239.8ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.144:20016, Avg ping: 240.0ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.201:20016, Avg ping: 256.5ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.24:20016, Avg ping: 265.0ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.184:20016, Avg ping: 265.0ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.16:20016, Avg ping: 265.3ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.203:20016, Avg ping: 265.3ms, Loss: 0.0%
+23:48:39 [info] 20:48:39 -3 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.210:20016, Avg ping: 265.3ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login3.wotblitz.eu:20016, Ip: 94.156.45.202:20016, Avg ping: 274.3ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login3.wotblitz.eu:20016, Ip: 94.156.45.237:20016, Avg ping: 274.5ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login3.wotblitz.eu:20016, Ip: 94.156.45.176:20016, Avg ping: 274.5ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login2.wotblitz.com:20016, Ip: 92.223.45.12:20016, Avg ping: 266.0ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login2.wotblitz.com:20016, Ip: 92.223.45.13:20016, Avg ping: 266.0ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login3.wotblitz.eu:20016, Ip: 94.156.45.138:20016, Avg ping: 291.8ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login2.wotblitz.asia:20016, Ip: 95.85.94.91:20016, Avg ping: 364.2ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login4.wotblitz.eu:20016, Ip: 83.229.15.195:20016, Avg ping: 364.2ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login4.wotblitz.eu:20016, Ip: 83.229.15.235:20016, Avg ping: 381.5ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login2.wotblitz.asia:20016, Ip: 95.85.94.170:20016, Avg ping: 388.5ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login1.wotblitz.asia:20016, Ip: 92.223.16.147:20016, Avg ping: 431.0ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 396
+23:48:40 [info] 20:48:40 -3 [base] Controller deactivated: SmartDlcInitializationController
+23:48:40 [info] 20:48:40 -3 [base] Controller activated: ServerSelection
+23:48:40 [info] 20:48:40 -3 [net] Server: login0.wotblitz.asia:20016, Ip: 92.223.16.59:20016, Avg ping: 431.0ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login1.wotblitz.asia:20016, Ip: 92.223.16.145:20016, Avg ping: 431.0ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Water = LOW
+23:48:40 [info] 20:48:40 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Static object = LOW
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Pbr = OFF
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Reflections = LOW
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Static Decal = OFF
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Tank = MEDIUM
+23:48:40 [info] 20:48:40 -3 [render] Material group quality: Grass = OFF
+23:48:40 [info] 20:48:40 -3 [net] Server: login1.wotblitz.asia:20016, Ip: 92.223.16.30:20016, Avg ping: 439.5ms, Loss: 0.0%
+23:48:40 [info] 20:48:40 -3 [net] Server: login0.wotblitz.asia:20016, Ip: 92.223.16.81:20016, Avg ping: 439.5ms, Loss: 0.0%
+23:48:47 [info] 20:48:47 -3 [net] Server: login1.wotblitz.eu:20016, Ip: 92.223.31.138:20016, Avg ping: -1.0ms, Loss: 100.0%
+23:48:47 [info] 20:48:47 -3 [net] Server: login1.wotblitz.eu:20016, Ip: 92.223.31.139:20016, Avg ping: -1.0ms, Loss: 100.0%
+23:48:47 [info] 20:48:47 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  CONFIRM_REGION , control: ConfirmButton
+23:48:47 [info] 20:48:47 -3 [ui] UIDataParams redirect event:  CONFIRM_REGION , control:  ServerSelection  -> event:  CONFIRM_REGION , control: Content
+23:48:47 [info] 20:48:47 -3 [http] UrlRequest::StartAsync 0D05B394
+23:48:47 [info] 20:48:47 -3 [http] UrlRequest::Start this= 0D05B394 thread= 4180
+23:48:47 [info] 20:48:47 -3 [http] UrlRequest::StartInSeparateThread 0D05B394 wasCancelled= 0
+23:48:47 [info] 20:48:47 -3 [http] UrlRequest::OnRequestComplete 0D05B394 wasCancelled= 0
+23:48:47 [info] 20:48:47 -3 [base] Controller deactivated: ServerSelection
+23:48:47 [info] 20:48:47 -3 [base] Controller activated: NewGame
+23:48:50 [info] 20:48:50 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  AcceptButton  -> event:  NEW_GAME_PRESSED , control: NewGameButtonContainer
+23:48:50 [info] 20:48:50 -3 [ui] UIDataParams redirect event:  NEW_GAME_PRESSED , control:  NewGameScreen  -> event:  NEW_GAME_PRESSED , control: Content
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::StartAsync 0D05B794
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::Start this= 0D05B794 thread= 17836
+ show connecting screen
+23:48:50 [info] 20:48:50 -3 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 675
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Water = LOW
+23:48:50 [info] 20:48:50 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Static object = LOW
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Pbr = OFF
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Reflections = LOW
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Static Decal = OFF
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Tank = MEDIUM
+23:48:50 [info] 20:48:50 -3 [render] Material group quality: Grass = OFF
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::StartAsync 0D05C194
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::Start this= 0D05C194 thread= 20336
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::StartInSeparateThread 0D05B794 wasCancelled= 0
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::OnRequestComplete 0D05B794 wasCancelled= 0
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::StartInSeparateThread 0D05C194 wasCancelled= 0
+23:48:50 [info] 20:48:50 -3 [http] UrlRequest::OnRequestComplete 0D05C194 wasCancelled= 0
+23:48:51 [info] 20:48:51 -3 [http] UrlRequest::StartAsync 0D05BC14
+23:48:51 [info] 20:48:51 -3 [http] UrlRequest::Start this= 0D05BC14 thread= 2016
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::StartInSeparateThread 0D05BC14 wasCancelled= 0
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::OnRequestComplete 0D05BC14 wasCancelled= 0
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::StartAsync 0D05B614
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::Start this= 0D05B614 thread= 19972
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::StartInSeparateThread 0D05B614 wasCancelled= 0
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::OnRequestComplete 0D05B614 wasCancelled= 0
+23:48:52 [info] 20:48:52 -3 [base] PreLoginController::OnRegistrationSettingsObtained: minor restrictions = 0
+23:48:52 [info] 20:48:52 -3 [base] PreLoginController::StartRegistrationFlow: detected user country = BR
+23:48:52 [info] 20:48:52 -3 [base] PreLoginController::StartRegistrationFlow: country BR is in white list
+23:48:52 [info] 20:48:52 -3 [base] PreLoginController::OnCountryChosen: selected country = BR
+23:48:52 [info] 20:48:52 -3 [base] PreLoginController::OnDateOfBirthSelected: date of birth =  , is player adult = 1
+23:48:52 [info] 20:48:52 -3 [base] PreLoginController::OnParentalEmailEntered: parental email = 
+23:48:52 [info] 20:48:52 -3 [base] RegistrationManager::TryRegisterNewAccount request to show connecting screen
+23:48:52 [error] 20:48:52 -3 [base] Request to switch to current screen: ConnectingScreen
+23:48:52 [info] 20:48:52 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 741
+23:48:52 [info] 20:48:52 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 743
+23:48:52 [info] 20:48:52 -3 [base] Controller deactivated: NewGame
+23:48:52 [info] 20:48:52 -3 [base] Controller activated: NicknameController
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Water = LOW
+23:48:52 [info] 20:48:52 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Static object = LOW
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Pbr = OFF
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Reflections = LOW
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Static Decal = OFF
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Tank = MEDIUM
+23:48:52 [info] 20:48:52 -3 [render] Material group quality: Grass = OFF
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::StartAsync 0D05BA14
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::Start this= 0D05BA14 thread= 18936
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::StartInSeparateThread 0D05BA14 wasCancelled= 0
+23:48:52 [info] 20:48:52 -3 [http] UrlRequest::OnRequestComplete 0D05BA14 wasCancelled= 0
+23:48:55 [info] 20:48:55 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  CONFIRMATION_REQUESTED , control: ConfirmButton
+23:48:55 [info] 20:48:55 -3 [ui] UIDataParams redirect event:  CONFIRM_NICKNAME , control:  NicknameConfiguration  -> event:  CONFIRM_NICKNAME , control: Content
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::StartAsync 0DFDD754
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::Start this= 0DFDD754 thread= 12296
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::StartInSeparateThread 0DFDD754 wasCancelled= 0
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::OnRequestComplete 0DFDD754 wasCancelled= 0
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::StartAsync 0DFDDAD4
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::Start this= 0DFDDAD4 thread= 12860
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::StartInSeparateThread 0DFDDAD4 wasCancelled= 0
+23:48:55 [info] 20:48:55 -3 [http] UrlRequest::OnRequestComplete 0DFDDAD4 wasCancelled= 0
+23:48:56 [info] 20:48:56 -3 [http] UrlRequest::StartAsync 0DFDD654
+23:48:56 [info] 20:48:56 -3 [http] UrlRequest::Start this= 0DFDD654 thread= 4180
+23:48:57 [info] 20:48:57 -3 [http] UrlRequest::StartInSeparateThread 0DFDD654 wasCancelled= 0
+23:48:57 [info] 20:48:57 -3 [http] UrlRequest::OnRequestComplete 0DFDD654 wasCancelled= 0
+23:48:57 [info] 20:48:57 -3 [http] UrlRequest::StartAsync 0DFDD754
+23:48:57 [info] 20:48:57 -3 [http] UrlRequest::Start this= 0DFDD754 thread= 17836
+23:48:57 [info] 20:48:57 -3 [base] LoginManager::Login request to show connecting screen
+23:48:57 [info] 20:48:57 -3 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 884
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Water = LOW
+23:48:57 [info] 20:48:57 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Static object = LOW
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Landscape = MEDIUM
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Decoration Objects = OFF
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Pbr = OFF
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Reflections = LOW
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Static Decal = OFF
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Tank = MEDIUM
+23:48:57 [info] 20:48:57 -3 [render] Material group quality: Grass = OFF
+23:48:57 [info] 20:48:57 -3 [http] UrlRequest::StartInSeparateThread 0DFDD754 wasCancelled= 0
+23:48:57 [info] 20:48:57 -3 [http] UrlRequest::OnRequestComplete 0DFDD754 wasCancelled= 0
+23:48:58 [info] 20:48:58 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 913
+23:48:58 [info] 20:48:58 -3 [base] Controller deactivated: NicknameController
+23:48:58 [info] 20:48:58 -3 [base] Controller activated: SmartDlcInitializationController
+23:48:58 [info] 20:48:58 -3 [smart_dlc] SmartDlcInitializationController::StartInitialization - dynamicContentVersion:  0
+23:48:58 [info] 20:48:58 -3 [smart_dlc] SmartDlcInitializationController::InititalizeSmartDlc: using Disabled DLCManager
+23:48:58 [info] 20:48:58 -3 [smart_dlc] SmartDlcInitializationController: referenced dvpd files [  ]
+23:48:58 [info] 20:48:58 -3 [base] AppController::OnSmartDlcInitialized request to show connecting screen
+23:48:58 [info] 20:48:58 -3 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 913
+23:48:58 [info] 20:48:58 -3 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+23:48:58 [info] 20:48:58 -3 [base] [CamoDataProvider::Initialize] load file : C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/camouflages.xml
+23:48:58 [info] 20:48:58 -3 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/camouflages.yaml
+23:48:58 [info] 20:48:58 -3 [base] [DestructiblesCache::Init] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/destructibles.xml
+23:48:58 [info] 20:48:58 -3 [base] [Items::ReadItemType] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/item_types.xml
+23:48:58 [info] 20:48:58 -3 [base] [Nations::Init] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/available_nations.yaml
+23:48:58 [info] 20:48:58 -3 [base] [OptionalDevicesPresetsProvider::Load] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/optional_device_slots.xml
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' DamageBoostII ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' ReloadBoostII ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' EngineBoostII ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' RammingII ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' LightingII ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' HuntersMarkHellgames ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' TornadoHellgames ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' VampiricBoost ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' BotFate ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' GravityJump ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' GodMode ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' TungstenTip ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' GunPowder ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' OneShotShield ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [warning] 20:48:58 -3 [base] EntityExtraFactory::CreateEntityExtra class ' NoneExtra ' is not found, created EntityExtra
+23:48:58 [info] 20:48:58 -3 [base] [MaterialKinds::Init] load: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/XML/material_kinds.xml
+23:48:58 [info] AppContextImpl::InitializeLocalizations device locale: pt, locale: pt, game locale: pt, sound locale: pbr, 
+23:49:00 [info] 20:49:00 -3 [net] Server: login1.wotblitz.com:20016, Ip: 92.223.39.58:20016, Avg ping: 141.5ms, Loss: 0.0%
+23:49:00 [info] 20:49:00 -3 [net] Server: login0.wotblitz.com:20016, Ip: 92.223.57.35:20016, Avg ping: 167.5ms, Loss: 0.0%
+23:49:00 [info] 20:49:00 -3 [net] Server: login2.wotblitz.com:20016, Ip: 92.223.45.13:20016, Avg ping: 200.8ms, Loss: 0.0%
+23:49:00 [warning] 20:49:00 -3 [net] ClusterHost::SelectAddress : name = NA_C0, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.57.35:20016 push_back
+23:49:00 [warning] 20:49:00 -3 [net] ClusterHost::SelectAddress : name = NA_C1, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.39.58:20016 push_back
+23:49:00 [warning] 20:49:00 -3 [net] ClusterHost::SelectAddress : name = NA_C2, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.45.13:20016 push_back
+23:49:00 [info] 20:49:00 -3 [BW] BWWrapper::SetupNetwork start
+23:49:00 [info] 20:49:00 -3 [BW] BWWrapper::SetupNetwork end, duration 3 ms
+23:49:00 [warning] 20:49:00 -3 [BW] W ServerConnection::send(0): Time since last send to server: 36032ms
+23:49:00 [info] 20:49:00 -3 [net] ConnectionManager::onLoggedOn message: {"dbid":1055245936,"externals":["steam"],"name":"ARIELT1215","state":15728641,"token2":"1055245936:4862139596908911006:246845119936008757038454243502380440848"}
+23:49:00 [info] 20:49:00 -3 [http] UrlRequest::StartAsync 0DFDD754
+23:49:00 [info] 20:49:00 -3 [http] UrlRequest::Start this= 0DFDD754 thread= 18936
+23:49:00 [info] 20:49:00 -3 [http] UrlRequest::StartAsync 0DFDDBD4
+23:49:00 [info] 20:49:00 -3 [http] UrlRequest::Start this= 0DFDDBD4 thread= 12296
+23:49:00 [info] 20:49:00 -3 [base] Controller deactivated: SmartDlcInitializationController
+23:49:00 [info] 20:49:00 -3 [http] UrlRequest::StartAsync 0DFDD8D4
+23:49:00 [info] 20:49:00 -3 [http] UrlRequest::Start this= 0DFDD8D4 thread= 12860
+23:49:00 [info] 20:49:00 -3 [base] Controller activated: SessionController
+23:49:00 [info] 20:49:00 -3 [base] LocalizationHelper::LoadLocalizations Try load localizations from https://stufficons.wgcdn.co/localizations/pt.yaml
+23:49:00 [info] 20:49:00 -3 [http] UrlRequest::StartAsync 0DFDD7D4
+23:49:00 [info] 20:49:00 -3 [base] TestSystem: Server does not confirm group, but test disabled. Clear cached data.
+23:49:00 [info] 20:49:00 -3 [base] TestSystem: Could not clean test cached data. Maybe files does not exists?
+23:49:01 [info] AccountGameLogic::onBecomePlayer() 270561770 1007
+23:49:01 [info] 20:49:01 -3 [prebattle] PrebattleRequester::SetClientPrebattle
+23:49:01 [info] 20:49:01 -3 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:49:01 [info] 20:49:01 -3 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+23:49:01 [info] 20:49:01 -3 [base] AccountSyncController::Activate request to show connecting screen
+23:49:01 [error] 20:49:01 -3 [base] Request to switch to current screen: ConnectingScreen
+23:49:01 [info] 20:49:01 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 1007
+23:49:01 [error] 20:49:01 -3 [base] Request to switch to current screen: ConnectingScreen
+23:49:01 [info] 20:49:01 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 1020
+23:49:01 [info] 20:49:01 -3 [base] Shop state is not synchronized 2
+23:49:01 [info] 20:49:01 -3 [base] AppGraphicsOptionsMigrationManager::Migrate
+23:49:01 [info] 20:49:01 -3 [base] currentVersion =  12 , isFirstRun =  0 , MinVersion =  8 , MaxVersion =  12 , loadedFromFile =  1
+23:49:01 [info] 20:49:01 -3 [base] Options do not need to be migrated (already max migration version).
+23:49:01 [info] 20:49:01 -3 [base] [GraphicsOptionsManager::LoadFromMap] Selected user options:
+ Graphics options:
+	WaterQuality: Low
+	ObjectsQuality: Compatible
+	VehiclesQuality: Low
+	EffectsQuality: Low
+	LevelOfDetail: Low
+	FogQuality: Low
+	AnisotropicFiltering: Off
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: Compatible
+	GrassInSniperMode: false
+	TankTreads: false
+	ShadowQuality: Off
+	HitMarks: false
+	HDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: false
+
+23:49:02 [info] 20:49:02 -3 [base] LocalizationHelper::ProcessFinishedRequest https://stufficons.wgcdn.co/localizations/pt.yaml finished with http status 200
+23:49:02 [info] 20:49:02 -3 [base] LocalizationHelper::ProcessFinishedRequest https://stufficons.wgcdn.co/localizations/pt.yaml Try apply localizations from remote data.
+23:49:02 [info] 20:49:02 -3 [base] SLocalizationHelper::TryParseAndSetLocalizationFromData Localizations setup completed.
+23:49:02 [info] 20:49:02 -3 [base] SLocalizationHelper::TryWriteDataToFile file C:/Users/Hencc/OneDrive/Documentos/DAVAProject/cache/localizations/pt.yaml saved.
+23:49:02 [info] 20:49:02 -3 [base] SLocalizationHelper::TryWriteDataToFile file C:/Users/Hencc/OneDrive/Documentos/DAVAProject/cache/localizations/pt.yaml.etag saved.
+23:49:02 [info] 20:49:02 -3 [base] SLocalizationHelper::TryLoadFromRemote Localizations loaded from remote data.
+23:49:02 [info] 20:49:02 -3 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> GarageScreen:42 1097
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Water = LOW
+23:49:02 [info] 20:49:02 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Static object = LOW
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Landscape = MEDIUM
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Decoration Objects = OFF
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Pbr = OFF
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Reflections = LOW
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Static Decal = OFF
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Tank = MEDIUM
+23:49:02 [info] 20:49:02 -3 [render] Material group quality: Grass = OFF
+23:49:02 [info] 20:49:02 -3 [base] Controller activated: NewbieHangarLoadingController
+23:49:02 [info] GarageScreen::LoadResources begin
+23:49:03 [info] 20:49:03 -3 [render] RenderOption Draw Vegetation : 0
+23:49:03 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SpeedTree.SphericalLit.material, using default QualityDependentUniqueDefines.
+23:49:03 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SphericalLit.material, using default QualityDependentUniqueDefines.
+23:49:04 [error] 20:49:04 -3 [engine] [TextureKit]: Abort texture meta load: texture "base" path must be specified in order to save/load meta. Specified path: 
+23:49:04 [error] 20:49:04 -3 [engine] [VegetationVariantData] Cannot load texture meta: 
+23:49:04 [error] 20:49:04 -3 [engine] [TextureKit]: Abort texture meta load: texture "base" path must be specified in order to save/load meta. Specified path: 
+23:49:04 [error] 20:49:04 -3 [engine] [VegetationVariantData] Cannot load texture meta: 
+23:49:07 [info] 20:49:07 -3 [base] Controller deactivated: NewbieHangarLoadingController
+23:49:07 [info] 20:49:07 -3 [base] Controller activated: NewbieHangarController
+23:49:18 [info] 20:49:18 -3 [ui] UIDataParams redirect event:  init_anim_stopped , control:  HangarScene  -> event:  MOTION_FINISHED , control: Content
+23:49:18 [info] 20:49:18 -3 [ui] UIDataParams redirect event:  init_anim_stopped , control:  HangarScene  -> event:  ShowTankInfo , control: Content
+23:49:18 [info] 20:49:18 -3 [ui] UIDataParams redirect event:  init_anim_stopped , control:  HangarScene  -> event:  ShowButtons , control: Content
+23:49:21 [info] 20:49:21 -3 [ui] UIDataParams redirect event:  BATTLE_BUTTON_PRESSED , control:  BattleButton  -> event:  TO_BATTLE , control: BattleButton
+23:49:22 [info] 20:49:22 -3 [ui] UIDataParams redirect event:  anim_tank_stoped , control:  HangarScene  -> event:  PREBATTLE_ANIMATION_FINISHED , control: Content
+23:49:22 [info] 20:49:22 -3 [base] Controller deactivated: NewbieHangarController
+23:49:22 [info] 20:49:22 -3 [base] Controller activated: NewbieBattleQueueController
+23:49:27 [info] AccountGameLogic::onBecomeNonPlayer() 2466
+23:49:27 [info] 20:49:27 -3 [base] Controller deactivated: NewbieBattleQueueController
+23:49:27 [info] 20:49:27 -3 [prebattle] PrebattleRequester::SetRequestsProvider 0DB03860
+23:49:28 [info] 20:49:28 -3 [prebattle] PrebattleRequester::SetClientPrebattle
+23:49:28 [info] 20:49:28 -3 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:49:28 [info] 20:49:28 -3 [battle] AvatarGameLogic::onBecomePlayer in Frame: 2466
+23:49:28 [info] 20:49:28 -3 [battle] Game mode: newbie_tutorial_neo
+23:49:28 [info] SetBattleState CREATED
+23:49:28 [info] 20:49:28 -3 [battle] Battle resumed on map: rudniki_01
+23:49:28 [info] 20:49:28 -3 [net] Traceroute: Successfuly initialized
+23:49:28 [info] 20:49:28 -3 [base] ScreensFlow::RequestToShowScreen GarageScreen:42 -> BattleScreen:721077 2466
+23:49:28 [info] 20:49:28 -3 [base] Controller activated: BattleLoadingController
+23:49:28 [info] 20:49:28 -3 [battle] ClientArena::ClearVehicleMap size: 0
+23:49:28 [info] 20:49:28 -3 [base] AppGraphicsOptionsMigrationManager::Migrate
+23:49:28 [info] 20:49:28 -3 [base] currentVersion =  12 , isFirstRun =  0 , MinVersion =  8 , MaxVersion =  12 , loadedFromFile =  1
+23:49:28 [info] 20:49:28 -3 [base] Options do not need to be migrated (already max migration version).
+23:49:28 [info] 20:49:28 -3 [base] [GraphicsOptionsManager::LoadFromMap] Selected user options:
+ Graphics options:
+	WaterQuality: Low
+	ObjectsQuality: Compatible
+	VehiclesQuality: Low
+	EffectsQuality: Low
+	LevelOfDetail: Low
+	FogQuality: Low
+	AnisotropicFiltering: Off
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: Compatible
+	GrassInSniperMode: false
+	TankTreads: false
+	ShadowQuality: Off
+	HitMarks: false
+	HDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: false
+
+23:49:28 [info] SetBattleState LOADING
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Water = LOW
+23:49:28 [info] 20:49:28 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Static object = LOW
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Landscape = MEDIUM
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Decoration Objects = OFF
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Pbr = OFF
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Reflections = LOW
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Static Decal = OFF
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Tank = MEDIUM
+23:49:28 [info] 20:49:28 -3 [render] Material group quality: Grass = OFF
+23:49:28 [info] 20:49:28 -3 [battle] BattleController::LoadGameScene begins
+23:49:28 [info] 20:49:28 -3 [engine] Resize canvas Texture 2841629821.png:0
+23:49:28 [info] 20:49:28 -3 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  AVATAR_IMAGE_LOADED , control: table-cell
+23:49:29 [info] 20:49:29 -3 [engine] Resize canvas Texture 4290598252.webp:0
+23:49:29 [info] 20:49:29 -3 [engine] Resize canvas Texture 1120226467.png:0
+23:49:29 [info] 20:49:29 -3 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  AVATAR_IMAGE_LOADED , control: table-cell
+23:49:29 [info] 20:49:29 -3 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  AVATAR_IMAGE_LOADED , control: table-cell
+23:49:29 [error] 20:49:29 -3 [engine] [TextureKit]: Abort texture meta load: texture "base" path must be specified in order to save/load meta. Specified path: 
+23:49:29 [error] 20:49:29 -3 [engine] [VegetationVariantData] Cannot load texture meta: 
+23:49:29 [error] 20:49:29 -3 [engine] [TextureKit]: Abort texture meta load: texture "base" path must be specified in order to save/load meta. Specified path: 
+23:49:29 [error] 20:49:29 -3 [engine] [VegetationVariantData] Cannot load texture meta: 
+23:49:29 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SpeedTree.SphericalLit.material, using default QualityDependentUniqueDefines.
+23:49:29 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SphericalLit.material, using default QualityDependentUniqueDefines.
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] Cant purge lods: no render object
+23:49:30 [info] 20:49:30 -3 [battle] BattleController::LoadGameScene ends
+23:49:31 [info] 20:49:31 -3 [base] Controller deactivated: BattleLoadingController
+23:49:31 [info] SetBattleState LOADED
+23:49:31 [info] 20:49:31 -3 [net] Traceroute::BackgroundWorker: Main thread started
+23:49:31 [info] 20:49:31 -3 [battle] PlayerDamageStatisticsController::OnGameLogicComes
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Water = LOW
+23:49:31 [info] 20:49:31 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Static object = LOW
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Landscape = MEDIUM
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Decoration Objects = OFF
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Pbr = OFF
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Reflections = LOW
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Static Decal = OFF
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Tank = MEDIUM
+23:49:31 [info] 20:49:31 -3 [render] Material group quality: Grass = OFF
+23:49:31 [info] 20:49:31 -3 [base] Controller activated: BattleDialogController
+23:49:31 [info] 20:49:31 -3 [engine] Resize canvas Texture 1120226467.png:0
+23:49:31 [info] 20:49:31 -3 [engine] Resize canvas Texture 4290598252.webp:0
+23:49:31 [info] 20:49:31 -3 [engine] Resize canvas Texture 2841629821.png:0
+23:53:25 [info] SetBattleState WAIT
+23:53:25 [info] 20:53:25 -3 [battle] VehiclesInBattle: player's vehicle leave world
+23:53:25 [info] 20:53:25 -3 [battle] PlayerDamageStatisticsController::OnVehicleLeaveWorld
+23:53:25 [info] 20:53:25 -3 [battle] AvatarGameLogic::onBecomeNonPlayer in Frame: 16307
+23:53:25 [info] SetBattleState LEAVE
+23:53:25 [info] BattleController::OnLeaveBattle
+23:53:25 [info] 20:53:25 -3 [battle] PlayerDamageStatisticsController::OnGameLogicLeaves
+23:53:25 [info] 20:53:25 -3 [battle] GameplaySoundController::StopSoundIfActive Name: GUI_notifications_FX_base_capture_enemy Active: 0
+23:53:25 [info] 20:53:25 -3 [base] Controller deactivated: BattleDialogController
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Water = LOW
+23:53:25 [info] 20:53:25 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Static object = LOW
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Landscape = MEDIUM
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Decoration Objects = OFF
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Pbr = OFF
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Reflections = LOW
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Static Decal = OFF
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Tank = MEDIUM
+23:53:25 [info] 20:53:25 -3 [render] Material group quality: Grass = OFF
+23:53:25 [info] 20:53:25 -3 [net] Traceroute::BackgroundWorker destroyed.
+23:53:25 [info] SetBattleState UNLOAD
+23:53:25 [info] 20:53:25 -3 [battle] ClientArena::ClearVehicleMap size: 10
+23:53:25 [info] SetBattleState UNLOADED
+23:53:25 [info] AccountGameLogic::onBecomePlayer() 270561770 16307
+23:53:25 [info] 20:53:25 -3 [prebattle] PrebattleRequester::SetClientPrebattle
+23:53:25 [info] 20:53:25 -3 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:53:25 [info] 20:53:25 -3 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+23:53:26 [info] 20:53:26 -3 [base] ScreensFlow::RequestToShowScreen BattleScreen:721077 -> GarageScreen:42 16317
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Water = LOW
+23:53:26 [info] 20:53:26 -3 [render] Draw Water Reflection / Refraction: 0 / 0
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Static object = LOW
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Landscape = MEDIUM
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Spherical Harmonics = LOW
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Decoration Objects = OFF
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Pbr = OFF
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Reflections = LOW
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Static Decal = OFF
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Tank = MEDIUM
+23:53:26 [info] 20:53:26 -3 [render] Material group quality: Grass = OFF
+23:53:26 [info] 20:53:26 -3 [base] Controller activated: NewbieHangarLoadingController
+23:53:26 [info] 20:53:26 -3 [base] Shop state is not synchronized 2
+23:53:26 [info] 20:53:26 -3 [base] AppGraphicsOptionsMigrationManager::Migrate
+23:53:26 [info] 20:53:26 -3 [base] currentVersion =  12 , isFirstRun =  0 , MinVersion =  8 , MaxVersion =  12 , loadedFromFile =  1
+23:53:26 [info] 20:53:26 -3 [base] Options do not need to be migrated (already max migration version).
+23:53:26 [info] 20:53:26 -3 [base] [GraphicsOptionsManager::LoadFromMap] Selected user options:
+ Graphics options:
+	WaterQuality: Low
+	ObjectsQuality: Compatible
+	VehiclesQuality: Low
+	EffectsQuality: Low
+	LevelOfDetail: Low
+	FogQuality: Low
+	AnisotropicFiltering: Off
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: Compatible
+	GrassInSniperMode: false
+	TankTreads: false
+	ShadowQuality: Off
+	HitMarks: false
+	HDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: false
+
+23:53:26 [info] GarageScreen::LoadResources begin
+23:53:26 [error] 20:53:26 -3 [engine] [TextureKit]: Abort texture meta load: texture "base" path must be specified in order to save/load meta. Specified path: 
+23:53:26 [error] 20:53:26 -3 [engine] [VegetationVariantData] Cannot load texture meta: 
+23:53:26 [error] 20:53:26 -3 [engine] [TextureKit]: Abort texture meta load: texture "base" path must be specified in order to save/load meta. Specified path: 
+23:53:26 [error] 20:53:26 -3 [engine] [VegetationVariantData] Cannot load texture meta: 
+23:53:27 [info] 20:53:27 -3 [base] Controller deactivated: NewbieHangarLoadingController
+23:53:27 [info] 20:53:27 -3 [base] Controller activated: NewbieHangarController
+23:53:33 [info] 20:53:33 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  FINISH , control: ButtonContainer
+23:53:33 [info] 20:53:33 -3 [ui] UIDataParams redirect event:  ON_FINISHED , control:  NewbieReceivedAchievement  -> event:  GoToNextStep , control: Content
+23:53:36 [info] 20:53:36 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  FINISH , control: Button
+23:53:37 [info] 20:53:37 -3 [ui] UIDataParams redirect event:  ANCHOR_AVATAR , control:  NewbieReceivedAvatar  -> event:  AnimateAvatarAnchoring , control: Content
+23:53:37 [info] 20:53:37 -3 [ui] UIDataParams redirect event:  ON_FINISHED , control:  NewbieReceivedAvatar  -> event:  GoToNextStep , control: Content
+23:53:42 [info] 20:53:42 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  FINISH , control: ButtonContainer
+23:53:43 [info] 20:53:43 -3 [ui] UIDataParams redirect event:  ON_FINISHED , control:  NewbieHangarProgress  -> event:  GoToNextStep , control: Content
+23:53:43 [info] 20:53:43 -3 [ui] UIDataParams redirect event:  ON_PROGRESS_FINISHED , control:  NewbieProgress  -> event:  ON_PROGRESS_FINISHED , control: Content
+23:53:47 [info] 20:53:47 -3 [base] Dialog activated: ConfirmationDialog
+23:53:50 [info] 20:53:50 -3 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  ButtonPositive  -> event:  ACCENT_ACTION , control: ButtonAccept
+23:53:51 [info] 20:53:51 -3 [ui] UIDataParams redirect event:  ACCENT_CLICKED , control:  InfoTextDialog  -> event:  CONFIRMATION , control: ConfirmationDialog
+23:53:51 [info] 20:53:51 -3 [base] Dialog deactivated: ConfirmationDialog
+23:53:51 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=0
+23:53:51 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=1
+23:53:51 [info] Window::HandleVisibilityChanged: become hidden
+23:53:51 [info] GameCore::OnBackground
+23:53:51 [warning] can't set presence for offline client
+23:53:51 [info] 20:53:51 -3 [chat] WGXmppClientPrivate::disconnect
+23:53:51 [info] Window::HandleWindowDestroyed: enter
+23:53:51 [info] EngineBackend::OnWindowDestroyed: enter
+23:53:51 [info] GameCore::OnWindowDestroyed
+23:53:51 [info] AccountGameLogic::onBecomeNonPlayer() 17702
+23:53:51 [info] 20:53:51 -3 [base] Controller deactivated: NewbieHangarController
+23:53:51 [info] 20:53:51 -3 [prebattle] PrebattleRequester::SetRequestsProvider 2BA162A8
+23:53:51 [info] 20:53:51 -3 [prebattle] PrebattleRequester::SetClientPrebattle
+23:53:51 [info] 20:53:51 -3 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:53:51 [warning] can't set presence for offline client
+23:53:51 [info] 20:53:51 -3 [chat] WGXmppClientPrivate::disconnect
+23:53:51 [info] 20:53:51 -3 [base] Controller deactivated: SessionController
+23:53:51 [info] 20:53:51 -3 [chat] XChatInstance::ReleaseGlooxResources
+23:53:51 [info] 20:53:51 -3 [chat] WGXmppClientPrivate::disconnect
+23:53:51 [info] 20:53:51 -3 [chat] WGXmppClientPrivate::disconnect
+23:53:51 [info] HeavyResourceValidationChecker: CANCELLED
