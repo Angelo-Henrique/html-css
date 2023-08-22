@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: black;
+        }
+
+        h1 {
+            color: beige;
+        }
+
+        table {
+            width: 500px;
+            border-collapse: collapse;
+            background-color: antiquewhite;
+            position: relative;
+        }
+
+        td, th {
+            border: 1px solid black;
+            padding: 10px;
+        }
+
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: rgba(0, 255, 2550.301);
+            color: beige;
+        }
+
+        thead, tfoot {
+            background-color: darkcyan;
+            color: white;
+        }
+
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: darkcyan;
+        }
+
+        tbody > tr:nth-child(odd) { /* 2n-1 */
+            background-color: burlywood;
+            font-weight: bold;
+        }
+             /* Efeito zebrado */
+        tbody > tr:nth-child(even) { /* 2n */
+            background-color: lightgreen;
+        }
+
+        .num {
+            text-align: right;
+        }
+        p {
+            color: beige;
+
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Uso de tabelas grandes</h1>
+    <!--
+        Anatomia para tabelas grandes
+        TABLE
+             THEAD
+                  TR, TD, TH
+             TBODY
+                  TR, TD, TH
+             TFOOT
+                  TR, TD, TH
+    -->
+        <table>
+            <caption>
+                População das Unidades Federativas
+            </caption>
+            <thead>
+                <tr>
+                    <th scope="col">Estado</th>
+                    <th scope="col" style="width: 50px;">População</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>São Paulo</td>
+                    <td class="num">44 420 459</td>
+                </tr>
+                <tr>
+                    <td>Minas Gerais</td>
+                    <td class="num">20.538.718</td>
+                </tr>
+                <tr>
+                    <td>Rio de Janeiro</td>
+                    <td class="num">16.054.524</td>
+                </tr>
+                <tr>
+                    <td>Bahia</td>
+                    <td class="num">14.136.417</td>
+                </tr>
+                <tr>
+                    <td>Paraná</td>
+                    <td class="num">11.443.208</td>
+                </tr>
+                <tr>
+                    <td>Rio Grande do Sul</td>
+                    <td class="num">10.880.506</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th scope="row">Total de Habitantes</th>
+                    <th class="num"><strong>117.473.832</strong></th>
+                </tr>
+            </tfoot>
+        </table>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, corrupti! Accusantium voluptatibus est adipisci ipsa nulla cupiditate cumque iusto? Eaque nulla libero quam repellat magni quidem autem est sed quas?
+        Accusamus molestiae recusandae iusto debitis quam, fugiat reiciendis expedita assumenda aperiam, unde voluptate veritatis sunt exercitationem, ducimus pariatur sint odio id eum rem nulla tenetur? Minima reprehenderit laborum earum ut.
+        Porro, odit nam amet ipsa officia neque iste earum reiciendis. Beatae consequuntur doloremque maiores, impedit aspernatur recusandae tenetur nemo doloribus ab porro, inventore temporibus magnam nesciunt deserunt esse, reiciendis assumenda.
+        Quis ducimus ea quibusdam cupiditate! Sed tempore labore itaque, voluptates inventore corrupti? Corrupti explicabo quasi nulla veritatis eius, dolore exercitationem inventore praesentium mollitia, sint nesciunt assumenda officiis libero? Eius, quis!
+        Id totam, animi ratione, vitae quis perferendis facere architecto illo similique ab quasi, culpa quidem ipsa consequuntur itaque! Repellendus ipsum ipsa quam illum vero odit quos soluta repellat necessitatibus reiciendis?</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima pariatur animi nobis vero, nam tenetur possimus tempore non eligendi cumque dicta voluptatibus perferendis similique, aperiam magnam velit perspiciatis deserunt aspernatur.
+        Nobis quibusdam nesciunt sint maiores! Provident sit enim voluptatum nesciunt blanditiis recusandae soluta vitae quam velit rerum cupiditate aut doloremque consectetur laboriosam quia iste nobis rem, inventore aliquam molestias eveniet.
+        Quia sunt sed, quisquam, dolore maxime harum id animi ad magni ratione in exercitationem natus earum amet cupiditate dicta beatae iusto, doloribus minus a illum. Incidunt aliquam voluptatum earum perspiciatis?
+        Architecto a nemo animi obcaecati fugit sit quam doloribus nostrum, molestias iusto. Dolore delectus voluptate vel laborum distinctio dicta molestias corporis ab qui culpa ut, necessitatibus similique. Aperiam, et explicabo.
+        Qui sunt laudantium iure vel. Distinctio, officia expedita aliquid ipsa, voluptatibus nulla exercitationem, vel aperiam quisquam reprehenderit voluptas voluptatum labore temporibus. Laborum debitis numquam assumenda eligendi excepturi, alias delectus neque.
+        Vitae quas pariatur similique optio a ducimus cupiditate eligendi reprehenderit tenetur impedit recusandae maiores dolorum voluptatem unde repudiandae perspiciatis laboriosam, nobis illo quisquam hic odit aliquid? Ea nostrum non placeat.
+        Culpa fugiat magni facilis aspernatur omnis. Illo totam repudiandae dignissimos dolorem, modi dolor, odit labore fugiat reiciendis vitae natus ullam in vero quas esse minus accusamus quasi consequuntur dolorum ducimus.
+        Debitis itaque aspernatur vel magni, voluptatem totam! Amet dolore sint sapiente officia iure eum tenetur vero corporis consequuntur! Eaque, perspiciatis reiciendis! Dolore rem eum ullam, recusandae autem perferendis reprehenderit. Totam?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur esse dicta veniam exercitationem voluptates delectus nobis numquam, ipsa impedit iure aperiam, ad veritatis soluta asperiores! Voluptatum, iusto! Recusandae, maxime quas.
+        Nihil error praesentium, iure facere minima at porro impedit perspiciatis, laborum voluptatem officiis rem accusantium in quibusdam et reprehenderit nam! Ratione voluptas ipsum quae similique harum recusandae officia. Eum, laudantium.
+        Minima culpa ipsa nisi reiciendis a illo, commodi quasi ea veniam id facere? Modi nobis, quidem dolore in sit officiis aspernatur quod molestias repellat aliquam aperiam tempore, vero ipsum at!</p>
+</body>
+</html>
